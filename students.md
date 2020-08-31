@@ -123,6 +123,13 @@ William, is a current student at Boise State. He has a bachelors degree in Mass 
 Nicholas Prussen is currently a Junior majoring in Computer Science here at Boise State.   He is currently working on the Parflow Project under Ahmad Rezaii. He also worked on the Lidar Data Processing
 Project.
 
+* * *
+
+
+#### Ashley Rivera
+
+Ashley Rivera is a senior undergraduate majoring in Electrical Engineering with a minor in Computer Science. She spent the summer of 2020 working at the Idaho National Laboratory as an Applied Systems Engineering Intern at the Advanced Test Reactor. She is exploring the possible use of FPGAs in the CHiLL-I/E project.
+
 
 <br>
 
@@ -132,5 +139,5 @@ Project.
 <img src="/assets/img/Aaron.jpg" height="350" alt="Aaron Orenstein" />
 #### Aaron Orenstein
 
-Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project, Ionoseis project, and CHiLL-I/E project.
+Aaron recently graduated from Capital High School and Treasure Valley Math and Science Center and will be attending Case Western Reserve University for a BS in Computer Science. He has worked on the Lidar Data Processing project and Ionoseis project and is currently working on the CHiLL-I/E project.
 
